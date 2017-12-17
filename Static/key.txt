@@ -1,0 +1,2 @@
+Key: L67M9ECDI4rmQNvQ0m5xTU991CgTMg 
+https://www.worldcoinindex.com/apiservice/json?key={key}
