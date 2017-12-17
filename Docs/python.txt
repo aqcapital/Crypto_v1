@@ -1,0 +1,2 @@
+1. (If necessary) export PATH=~/anaconda3/bin:$PATH from .bash_profile to .zshrc
+2. (If necessary) deactivate virtual_env from .zshrc
